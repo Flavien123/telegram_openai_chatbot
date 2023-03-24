@@ -1,0 +1,22 @@
+{
+    "name": "telegram_openai_chatbot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "Flavien_chatbot.py"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Flavien123/telegram_openai_chatbot.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Flavien123/telegram_openai_chatbot/issues"
+    },
+    "homepage": "https://github.com/Flavien123/telegram_openai_chatbot#readme",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
